@@ -1,0 +1,3 @@
+class rita{
+int i=0;
+}
